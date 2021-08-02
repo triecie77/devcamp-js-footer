@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/triecie77/devcamp-js-footer#readme",
   "dependencies": {
+    "dev-js-footer": "^0.1.0",
     "moment": "^2.29.1"
   }
 }
